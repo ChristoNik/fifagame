@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+html,
+body,
+#root {
+    padding: 0;
+    margin: 0;
+    height: 100%;
+}
+
+body {
+    background: rgb(219, 217, 233);
+    background-image: linear-gradient(rgba(10, 8, 50, 0.99), rgba(23, 23, 53, 0.6)), url('https://wwwcompletesportsnigeriacom-xzvtxvtv.stackpathdns.com/wp-content/uploads/2018/02/2018-Russia-World-Cup.jpg');
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
